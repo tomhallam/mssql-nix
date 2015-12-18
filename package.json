@@ -13,12 +13,16 @@
   "keywords": [
     "mssql",
     "mono",
-    "native-driver"
+    "native driver"
   ],
   "author": "Tom Hallam",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tomhallam/mssql-nix/issues"
   },
-  "homepage": "https://github.com/tomhallam/mssql-nix#readme"
+  "homepage": "https://github.com/tomhallam/mssql-nix#readme",
+  "dependencies": {
+    "edge-sql": "git+https://github.com/tomhallam/edge-sql.git",
+    "q": "^1.4.1"
+  }
 }
