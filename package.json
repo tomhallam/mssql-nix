@@ -1,0 +1,24 @@
+{
+  "name": "mssql-nix",
+  "version": "0.0.1",
+  "description": "Query Microsoft SQL databases natively with Mono",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhallam/mssql-nix.git"
+  },
+  "keywords": [
+    "mssql",
+    "mono",
+    "native-driver"
+  ],
+  "author": "Tom Hallam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomhallam/mssql-nix/issues"
+  },
+  "homepage": "https://github.com/tomhallam/mssql-nix#readme"
+}
