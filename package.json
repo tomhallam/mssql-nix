@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/tomhallam/mssql-nix#readme",
   "dependencies": {
+    "edge": "^4.0.0",
     "edge-sql": "git+https://github.com/tomhallam/edge-sql.git",
     "q": "^1.4.1"
   }
