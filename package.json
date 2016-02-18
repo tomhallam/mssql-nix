@@ -23,7 +23,7 @@
   "homepage": "https://github.com/tomhallam/mssql-nix#readme",
   "dependencies": {
     "edge": "tjanczuk/edge",
-    "edge-sql": "^0.1.2",
+    "edge-sql": "tomhallam/edge-sql",
     "q": "^1.4.1"
   }
 }
